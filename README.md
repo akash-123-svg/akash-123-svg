@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Keshri</h1>
-<h3 align="center">I'm Just a Programmer👨‍💻, looking to solve real-world problems🌏, I'm passionate about Competitive Programming.</h3>
+<h3 align="center">I'm a Programmer👨‍💻,I'm passionate about Competitive Programming..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-123-svg&label=Profile%20views&color=0e75b6&style=flat" alt="akash-123-svg" /> </p>
 
@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **C++, Data Structures Algorithms and Competitive programming**
+- 👯 I’m looking to collaborate on **anything related to DSA and Competitive Programming.**
+
+- 💬 Ask me about **anything related to Programming.**
 
 - 📫 How to reach me **keshriakash522@gmail.com**
 
@@ -34,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-123-svg&show_icons=true&locale=en" alt="akash-123-svg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-123-svg&" alt="akash-123-svg" /></p>
+
