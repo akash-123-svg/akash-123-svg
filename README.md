@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **brushing on my Data Structure Skills.**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **anything related to DSA and Competitive Programming.**
 
@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-123-svg&show_icons=true&locale=en" alt="akash-123-svg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-123-svg&" alt="akash-123-svg" /></p>
+
 
