@@ -12,11 +12,6 @@
 
 - 📫 How to reach me **keshriakash522@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akashke21218043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashke21218043" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-123-svg&show_icons=true&locale=en&layout=compact" alt="akash-123-svg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-123-svg&show_icons=true&locale=en" alt="akash-123-svg" /></p>
