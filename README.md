@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Javascript,React.js,Redux.js**
 
-- 💬 Ask me about **DSA,JavaScript,React.js**
-
 - 📫 How to reach me **keshriakash522@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-123-svg&show_icons=true&locale=en&layout=compact" alt="akash-123-svg" /></p>
