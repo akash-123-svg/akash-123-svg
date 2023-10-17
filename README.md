@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashke21218043" target="blank"><img src="https://img.shields.io/twitter/follow/akashke21218043?logo=twitter&style=for-the-badge" alt="akashke21218043" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript,React.js,Redux.js**
+- 🔭 I’m currently working on **Javascript,React.js**
 
 - 📫 How to reach me **keshriakash522@gmail.com**
 
